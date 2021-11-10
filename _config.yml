@@ -64,8 +64,7 @@ content:
       Distributed Machine Learning
       - Federated Learning
       - Split Learning
-    layout: text
-    content: |
+    
       Learning Theory
       - Supervised Learning
       - Meta Learning
