@@ -34,7 +34,9 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Advisor: Prof. Joonhyuk Kang |
+          Advisor: Prof. Joonhyuk Kang
+
+
           Thesis: Statistical Heterogeneity-aware Federated Approach and Application
       
       - layout: top
@@ -77,18 +79,28 @@ content:
           Sponsor: Institute of Information & Communications Technology Planning & Evaluation
         description: | # this will include new lines to allow paragraphs
           - Subjects: This project is aimed to develop federated learning system based on edge computing.
+         
+         
           ‣ Developing transmission strategy for uplink communication for federated learning system
+         
+         
           ‣ Developing machine learning model compression and reconstruction strategy using neural networks
+          
+          
           ‣ Developing federated learning system, which assures robustness of device and data heterogeneity
 
       - layout: top
         title: Design of Frequency Invariant Beam Generator
         caption: Nov. 2020 - Aug. 2021
         quote: >
-          Sponsor: Agency for Defense Development
+          Sponsor: ADD (Agency for Defense Development), Republic of Korea
         description: | # this will include new lines to allow paragraphs
           - Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
+         
+          
           ‣ Developing frequency invariant beam generation model using transformer based autoencoder
+          
+          
           ‣ Developing CNN-based feature extractor model through contrastive learning for datasets without labels
 
 # Footer
