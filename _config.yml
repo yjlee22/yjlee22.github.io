@@ -23,6 +23,12 @@ github_username: yjlee22
 linkedin_username: yjlee22
 orcid_username: 0000-0003-4926-7702
 
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: _test/images/yjlee.png
+about_content: > # this means to ignore newlines until the next config item.
+  Hi, I'm <mark>Youngjoon Lee</mark>, a passionate self-taught AI research scientist from South Korea.
+
 content:  
   - title: Education
     layout: list
@@ -34,10 +40,9 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Advisor: Prof. Joonhyuk Kang
+          <mark>Advisor</mark>: Prof. Joonhyuk Kang
 
-
-          Thesis: Statistical Heterogeneity-aware Federated Approach and Application
+          <mark>Thesis</mark>: Statistical Heterogeneity-aware Federated Approach and Application
       
       - layout: top
         title: Ulsan National Institute of Science and Technology
@@ -51,10 +56,8 @@ content:
         title: Korea Institute of Industrial Technology
         sub_title: Technical Research Personnel
         caption: Sep. 2021 - present
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Future-oriented manufacturing-system core technology and processing technology development
 
   - title: Research Interest
     layout: text
@@ -80,14 +83,11 @@ content:
           Sponsor: Institute of Information & Communications Technology Planning & Evaluation
         description: | # this will include new lines to allow paragraphs
           - Subjects: This project is aimed to develop federated learning system based on edge computing.
-         
-         
+            
           ‣ Developing transmission strategy for uplink communication for federated learning system
          
-         
           ‣ Developing machine learning model compression and reconstruction strategy using neural networks
-          
-          
+           
           ‣ Developing federated learning system, which assures robustness of device and data heterogeneity
 
       - layout: top
@@ -97,15 +97,13 @@ content:
           Sponsor: ADD (Agency for Defense Development), Republic of Korea
         description: | # this will include new lines to allow paragraphs
           - Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
-         
-          
+                   
           ‣ Developing frequency invariant beam generation model using transformer based autoencoder
-          
-          
+                  
           ‣ Developing CNN-based feature extractor model through contrastive learning for datasets without labels
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
