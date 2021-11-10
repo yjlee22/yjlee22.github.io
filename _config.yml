@@ -45,7 +45,7 @@ content:
       
       - layout: top
         title: Ulsan National Institute of Science and Technology
-        sub_title: B.S., Electric and Electronic Engineering, *magna cum laude*
+        sub_title: B.S., Electric and Electronic Engineering, <i>magna cum laude</i>
         caption: Mar. 2015 - Aug. 2019
   
   - title: Employment
@@ -80,13 +80,13 @@ content:
         quote: >
           Sponsor: Institute of Information & Communications Technology Planning & Evaluation
         description: | # this will include new lines to allow paragraphs
-          - Subjects: This project is aimed to develop federated learning system based on edge computing.
+          Subjects: This project is aimed to develop federated learning system based on edge computing.
             
-            ‣ Developed transmission strategy for uplink communication for federated learning system
+            - Developed transmission strategy for uplink communication for federated learning system
          
-            ‣ Developed machine learning model compression and reconstruction strategy using neural networks
+            - Developed machine learning model compression and reconstruction strategy using neural networks
            
-            ‣ Developed federated learning system, which assures robustness of device and data heterogeneity
+            - Developed federated learning system, which assures robustness of device and data heterogeneity
 
       - layout: top
         title: Design of Frequency Invariant Beam Generator
@@ -94,19 +94,15 @@ content:
         quote: >
           Sponsor: ADD (Agency for Defense Development), Republic of Korea
         description: | # this will include new lines to allow paragraphs
-          - Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
+          Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
                    
-            ‣ Developed frequency invariant beam generation model using transformer based autoencoder
+            - Developed frequency invariant beam generation model using transformer based autoencoder
                   
-            ‣ Developed CNN-based feature extractor model through contrastive learning for datasets without labels
+            - Developed CNN-based feature extractor model through contrastive learning for datasets without labels
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
