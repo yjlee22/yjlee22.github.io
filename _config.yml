@@ -26,7 +26,10 @@ orcid_username: 0000-0003-4926-7702
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_content: > # this means to ignore newlines until the next config item.
-  Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from Republic of Korea.
+  Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from Republic of Korea. 
+  I'm currently a technical research personnel at Korea Institute of Industrial Technology (KITECH), Republic of Korea.
+  The ongoing research objective is to develop future-oriented core technology and processing technologies for industrial systems.
+  My research interests include distributed machine learning and learning theory.
 
 content:  
   - title: Education
@@ -48,28 +51,6 @@ content:
         sub_title: B.S., Electric and Electronic Engineering, <i>magna cum laude</i>
         caption: Mar. 2015 - Aug. 2019
   
-  - title: Employment
-    layout: list
-    content:
-      - layout: top
-        title: Korea Institute of Industrial Technology
-        sub_title: Technical Research Personnel
-        caption: Sep. 2021 - present
-        description: | # this will include new lines to allow paragraphs
-          Future-oriented manufacturing-system core technology and processing technology development
-
-  - title: Research Interest
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Distributed Machine Learning
-      - Federated Learning
-      - Split Learning
-    
-      Learning Theory
-      - Supervised Learning
-      - Meta Learning
-      - Self-Supervised Learning
-
   - title: Project Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
