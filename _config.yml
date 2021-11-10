@@ -1,0 +1,119 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Youngjoon Lee
+title: AI Research Scientist
+email: yjlee22@kaist.ac.kr
+# email_title: Email (Email title override)
+#phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+#website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: yjlee22
+linkedin_username: yjlee22
+orcid_username: 0000-0003-4926-7702
+
+# About Section
+about_title: About Me (Use this to override about section title)
+about_profile_image: images/yjlee.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+
+content:  
+  - title: Education
+    layout: list
+    content:
+      - layout: top
+        title: Korea Advanced Institute of Science and Technology
+        sub_title: M.S., Electric and Electronic Engineering
+        caption: Sep. 2019 - Aug. 2021
+        # quote: >
+        #   Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Advisor: Prof. Joonhyuk Kang
+          Thesis: Statistical Heterogeneity-aware Federated Approach and Application
+      
+      - layout: top
+        title: Ulsan National Institute of Science and Technology
+        sub_title: B.S., Electric and Electronic Engineering, *magna cum laude*
+        caption: Mar. 2015 - Aug. 2019
+        # quote: >
+        #   Short institution or course description (optional)
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
+  
+  - title: Employment
+    layout: list
+    content:
+      - layout: top
+        title: Korea Institute of Industrial Technology
+        sub_title: Technical Research Personnel
+        caption: Sep. 2021 - present
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+  - title: Research Interest
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Distributed Machine Learning
+      - Federated Learning
+      - Split Learning
+      Learning Theory
+      - Supervised Learning
+      - Meta Learning
+      - Self-Supervised Learning
+
+  
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top
+        title: Development of Communications and Computing Technology for Super-intelligent Services
+        quote: >
+          Institute of Information & Communications Technology Planning & Evaluation
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
