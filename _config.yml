@@ -41,10 +41,6 @@ content:
         title: Ulsan National Institute of Science and Technology
         sub_title: B.S., Electric and Electronic Engineering, *magna cum laude*
         caption: Mar. 2015 - Aug. 2019
-        # quote: >
-        #   Short institution or course description (optional)
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
   
   - title: Employment
     layout: list
