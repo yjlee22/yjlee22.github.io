@@ -25,9 +25,9 @@ orcid_username: 0000-0003-4926-7702
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-#about_profile_image: _test/images/yjlee.png
+about_profile_image: _test/images/yjlee.jpg
 about_content: > # this means to ignore newlines until the next config item.
-  Hi, I'm <mark>Youngjoon Lee</mark>, a passionate self-taught AI research scientist from South Korea.
+  Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from South Korea.
 
 content:  
   - title: Education
@@ -40,9 +40,9 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          <mark>Advisor</mark>: Prof. Joonhyuk Kang
+          <b>Advisor</b>: Prof. Joonhyuk Kang
 
-          <mark>Thesis</mark>: Statistical Heterogeneity-aware Federated Approach and Application
+          <b>Thesis</b>: Statistical Heterogeneity-aware Federated Approach and Application
       
       - layout: top
         title: Ulsan National Institute of Science and Technology
