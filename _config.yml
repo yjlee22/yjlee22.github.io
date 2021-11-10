@@ -25,7 +25,7 @@ orcid_username: 0000-0003-4926-7702
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: _test/images/yjlee.jpg
+about_profile_image: ./images/yjlee.jpg
 about_content: > # this means to ignore newlines until the next config item.
   Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from South Korea.
 
