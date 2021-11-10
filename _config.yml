@@ -34,7 +34,7 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Advisor: Prof. Joonhyuk Kang
+          Advisor: Prof. Joonhyuk Kang |
           Thesis: Statistical Heterogeneity-aware Federated Approach and Application
       
       - layout: top
