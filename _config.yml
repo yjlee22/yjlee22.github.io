@@ -25,7 +25,6 @@ orcid_username: 0000-0003-4926-7702
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ./images/yjlee.jpg
 about_content: > # this means to ignore newlines until the next config item.
   Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from South Korea.
 
@@ -40,9 +39,9 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          <b>Advisor</b>: Prof. Joonhyuk Kang
+          Advisor: Prof. Joonhyuk Kang
 
-          <b>Thesis</b>: Statistical Heterogeneity-aware Federated Approach and Application
+          Thesis: Statistical Heterogeneity-aware Federated Approach and Application
       
       - layout: top
         title: Ulsan National Institute of Science and Technology
@@ -84,11 +83,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Subjects: This project is aimed to develop federated learning system based on edge computing.
             
-          ‣ Developed transmission strategy for uplink communication for federated learning system
+            ‣ Developed transmission strategy for uplink communication for federated learning system
          
-          ‣ Developed machine learning model compression and reconstruction strategy using neural networks
+            ‣ Developed machine learning model compression and reconstruction strategy using neural networks
            
-          ‣ Developed federated learning system, which assures robustness of device and data heterogeneity
+            ‣ Developed federated learning system, which assures robustness of device and data heterogeneity
 
       - layout: top
         title: Design of Frequency Invariant Beam Generator
@@ -98,9 +97,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
                    
-          ‣ Developed frequency invariant beam generation model using transformer based autoencoder
+            ‣ Developed frequency invariant beam generation model using transformer based autoencoder
                   
-          ‣ Developed CNN-based feature extractor model through contrastive learning for datasets without labels
+            ‣ Developed CNN-based feature extractor model through contrastive learning for datasets without labels
 
 # Footer
 footer_show_references: true
