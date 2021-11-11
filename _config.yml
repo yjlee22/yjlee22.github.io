@@ -25,33 +25,40 @@ orcid_username: 0000-0003-4926-7702
 
 # About Section
 # about_title: About Me (Use this to override about section title)
+about_profile_image: ./images/yjlee.jpg
 about_content: > # this means to ignore newlines until the next config item.
   Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from Republic of Korea.
-
+  I'm currently a technical research personnel at Korea Institute of Industrial Technology (KITECH), Republic of Korea.
+  The ongoing research goal is to develop future-oriented core technology and processing technologies for industrial systems.
+  My research interests include distributed machine learning and learning theory.
 content:  
   - title: Education
     layout: list
     content:
-      - layout: top
-        title: Korea Advanced Institute of Science and Technology
+      - layout: top-right
+        title: KAIST
         sub_title: M.S., Electric and Electronic Engineering
         caption: Sep. 2019 - Aug. 2021
-        # quote: >
-        #   Short institution or course description (optional)
+        quote: >
+          KAIST is the first and top science and technology university in Republic of Korea.
         description: | # this will include new lines to allow paragraphs
           Advisor: Prof. Joonhyuk Kang
 
           Thesis: Statistical Heterogeneity-aware Federated Approach and Application
       
-      - layout: top
-        title: Ulsan National Institute of Science and Technology
+      - layout: top-right
+        title: UNIST
         sub_title: B.S., Electric and Electronic Engineering, <i>magna cum laude</i>
         caption: Mar. 2015 - Aug. 2019
+        quote: >
+          UNIST is a warm and welcoming post-secondary institution located in the heart of Korea’s largest industrial city, Ulsan, Republic of Korea.
+        description: | # this will include new lines to allow paragraphs
+          During my time at UNIST I learnt most of my key skills that I have taken through my career such as programming and teamwork.
 
   - title: Project Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top-right
         title: Development of Communications and Computing Technology for Super-intelligent Services
         caption: Sep. 2020 - Aug. 2021
         quote: >
@@ -65,7 +72,7 @@ content:
            
             - Developed federated learning system, which assures robustness of device and data heterogeneity
 
-      - layout: top
+      - layout: top-right
         title: Design of Frequency Invariant Beam Generator
         caption: Nov. 2020 - Aug. 2021
         quote: >
