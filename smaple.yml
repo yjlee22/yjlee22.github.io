@@ -47,6 +47,28 @@ content:
         title: Ulsan National Institute of Science and Technology
         sub_title: B.S., Electric and Electronic Engineering, <i>magna cum laude</i>
         caption: Mar. 2015 - Aug. 2019
+  
+  - title: Employment
+    layout: list
+    content:
+      - layout: top
+        title: Korea Institute of Industrial Technology
+        sub_title: Technical Research Personnel
+        caption: Sep. 2021 - present
+        description: | # this will include new lines to allow paragraphs
+          Future-oriented manufacturing-system core technology and processing technology development
+
+  - title: Research Interest
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Distributed Machine Learning
+      - Federated Learning
+      - Split Learning
+    
+      Learning Theory
+      - Supervised Learning
+      - Meta Learning
+      - Self-Supervised Learning
 
   - title: Project Experience # Title for the section
     layout: list # Type of content section (list/text)
