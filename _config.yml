@@ -105,19 +105,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
-        caption: SCI Journal
+        caption: <b>SCI Journal</b>
         description: | # this will include new lines to allow paragraphs
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “RSFL: Robust and Safe Federated Learning in Heterogeneous Environments”, <i>IEEE Internet of Things Journal</i>, in preparation
           
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jinhyun Ahn and Joonhyuk Kang, “Accerlerated Federated Learning via Greedy Aggregation”, <i>IEEE Signal Processing Letters</i>, in preparation
       - layout: top-right
-        caption: Conference
+        caption: <b>Conference</b>
         description: | # this will include new lines to allow paragraphs
           - <u><b>Youngjoon Lee</b></u>, Taesoo Kim, Jinhyun Ahn and Joonhyuk Kang, “FedMusic: Automatic Music Transcription System Powered by Federated Learning”, <i>IEEE ICASSP 2022</i>, under review
 
           - <u><b>Youngjoon Lee</b></u> and Joonhyuk Kang, “FedLN: Federated Learning with Local Normalization”, <i>Joint Conference on Communications and Information (JCCI)</i>, April, 2021
       - layout: top-right
-        caption: Patent
+        caption: <b>Patent</b>
         description: | # this will include new lines to allow paragraphs
           - “Nerual Network Training Method and Appratus Using Federated Learning”, <u><b>Youngjoon Lee</b></u>, Joonhyuk Kang, Registration No. 10-2021-0148110, 2021
 
