@@ -92,13 +92,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        caption: <b>Journal</b>
+        caption: <b>Journal</b>  
         description: | # this will include new lines to allow paragraphs
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “Peer-to-Peer Distributed Learning in Heterogeneous Environments via Collaborative Learning”, <i>IEEE Signal Processing Letters</i>, in preparation
           
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “RSFL: Robust and Safe Federated Learning in Heterogeneous Environments”, <i>IEEE Internet of Things Journal</i>, in preparation
           
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jinhyun Ahn and Joonhyuk Kang, “Accerlerated Federated Learning via Greedy Aggregation”, <i>IEEE Signal Processing Letters</i>, in preparation
+      
       - layout: top-left
         caption: <b>Conference</b>
         description: | # this will include new lines to allow paragraphs
