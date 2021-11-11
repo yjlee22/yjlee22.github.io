@@ -88,7 +88,7 @@ content:
   
    - title: Publication
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    description: | # this will include new lines to allow paragraphs
       <b>SCI Journal</b>
         - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “RSFL: Robust and Safe Federated Learning in Heterogeneous Environments”, <i>IEEE Internet of Things Journal</i>, in preparation
         - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jinhyun Ahn and Joonhyuk Kang, “Accerlerated Federated Learning via Greedy Aggregation”, <i>IEEE Signal Processing Letters</i>, in preparation
