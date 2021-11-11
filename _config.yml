@@ -55,14 +55,14 @@ content:
         sub_title: B.S., Electric and Electronic Engineering, <i>magna cum laude</i>
         caption: Mar. 2015 - Aug. 2019
         quote: >
-          UNIST is a warm and welcoming post-secondary institution located in the heart of Korea’s largest industrial city, Ulsan, Republic of Korea.
+          UNIST is a post-secondary institution which is dedicated to research in science and technology in Republic of Korea.
         description: | # this will include new lines to allow paragraphs
           During my time at UNIST I learnt most of my key skills that I have taken through my career such as programming and teamwork.
 
   - title: Project Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top
         title: Development of Communications and Computing Technology for Super-intelligent Services
         caption: Sep. 2020 - Aug. 2021
         quote: >
@@ -76,7 +76,7 @@ content:
            
             - Developed federated learning system, which assures robustness of device and data heterogeneity
 
-      - layout: top-left
+      - layout: top
         title: Design of Frequency Invariant Beam Generator
         caption: Nov. 2020 - Aug. 2021
         quote: >
@@ -87,21 +87,6 @@ content:
             - Developed frequency invariant beam generation model using transformer based autoencoder
                   
             - Developed CNN-based feature extractor model through contrastive learning for datasets without labels
-  
-  #  - title: Publication
-  #   layout: text
-  #   description: | # this will include new lines to allow paragraphs
-  #     <b>SCI Journal</b>
-  #       - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “RSFL: Robust and Safe Federated Learning in Heterogeneous Environments”, <i>IEEE Internet of Things Journal</i>, in preparation
-  #       - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jinhyun Ahn and Joonhyuk Kang, “Accerlerated Federated Learning via Greedy Aggregation”, <i>IEEE Signal Processing Letters</i>, in preparation
-      
-  #     <b>Conference</b>
-  #       - <u><b>Youngjoon Lee</b></u>, Taesoo Kim, Jinhyun Ahn and Joonhyuk Kang, “FedMusic: Automatic Music Transcription System Powered by Federated Learning”, <i>IEEE ICASSP 2022</i>, under review
-  #       - <u><b>Youngjoon Lee</b></u> and Joonhyuk Kang, “FedLN: Federated Learning with Local Normalization”, <i>Joint Conference on Communications and Information (JCCI)</i>, April, 2021
-      
-  #     <b>Patent</b>
-  #       - “Nerual Network Training Method and Appratus Using Federated Learning”, <u><b>Youngjoon Lee</b></u>, Joonhyuk Kang, Registration No. 10-2021-0148110, 2021
-  #       - “Federated Learning Method and System”, <u><b>Youngjoon Lee</b></u>, Joonhyuk Kang, Registration No. 10-2021-0016897, 2021
   
   - title: Publication
     layout: list # Type of content section (list/text)
