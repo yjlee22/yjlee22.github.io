@@ -28,8 +28,8 @@ orcid_username: 0000-0003-4926-7702
 about_profile_image: ./images/yjlee.jpg
 about_content: > # this means to ignore newlines until the next config item.
   Hi, I'm <b>Youngjoon Lee</b>, a passionate self-taught AI research scientist from Republic of Korea.
-  I received B.S. degree  in electric and electronic engineering from Ulsan National Institute of Science and Technology (UNIST),  Ulsan, Republic of Korea, in 2019 and M.S. degree in electric and electronic engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejon, Republic of Korea, in 2021
-  I'm currently a technical research personnel at Korea Institute of Industrial Technology (KITECH), Republic of Korea.
+  I received B.S. degree  in electric and electronic engineering from Ulsan National Institute of Science and Technology (UNIST),  Ulsan, Republic of Korea, in 2019 and M.S. degree in electric and electronic engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejon, Republic of Korea, in 2021.
+  I'm currently a technical research personnel for alternative military service at Korea Institute of Industrial Technology (KITECH), Republic of Korea.
   The ongoing research goal is to develop future-oriented core technology and processing technologies for industrial systems.
   My  recent research interests  lie in the field of distributed machine learning, and learning theory, with a specific focus on federated learning.
   
