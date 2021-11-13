@@ -1,6 +1,6 @@
 # Site
 repository: yjlee22/yjlee22.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -31,7 +31,7 @@ about_content: > # this means to ignore newlines until the next config item.
   I received B.S. degree  in electric and electronic engineering from Ulsan National Institute of Science and Technology (UNIST),  Ulsan, Republic of Korea, in 2019 and M.S. degree in electric and electronic engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejon, Republic of Korea, in 2021.
   I'm currently a technical research personnel for alternative military service at Korea Institute of Industrial Technology (KITECH), Republic of Korea.
   The ongoing research goal is to develop future-oriented core technology and processing technologies for industrial systems.
-  My  recent research interests  lie in the field of distributed machine learning, and learning theory, with a specific focus on federated learning.
+  My  recent research interests  lie in the field of distributed machine learning and learning theory, with a specific focus on federated learning.
   
 content:  
   - title: Education
