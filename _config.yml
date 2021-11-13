@@ -44,7 +44,7 @@ content:
         quote: >
           KAIST is the first and top science and technology university in Republic of Korea.
         description: | # this will include new lines to allow paragraphs
-          During my time at KAIST, I studied the problem of improving the performance of federated learning under the guidance of Prof.Joonhyuk Kang.
+          During my time at KAIST, I studied the problem of improving the performance of federated learning under the guidance of Prof. Joonhyuk Kang.
           I solved the problems of federated learning, statistical heterogeneity and system heterogeneity, through neural networks and mathematical modeling.
           To reach my goal, I studied further into distributed machine learning and learning theory.
       
@@ -55,7 +55,7 @@ content:
         quote: >
           UNIST is a post-secondary institution which is dedicated to research in science and technology in Republic of Korea.
         description: | # this will include new lines to allow paragraphs
-          During my time at UNIST, I studied on bio-signal processing based on machine learning. 
+          During my time at UNIST, I studied on bio-signal processing based on machine learning under the guidance of Prof. Jin-Ho Chung. 
           I developed a bio-data analysis engine, which detects a unique pattern in the signal of the human body by integrating electrical engineering and bio-medical engineering. 
           To reach my goal, I studied further into bio system modeling and analysis technique based on multi-layer neural network.
 
@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
                    
-            - Developed frequency invariant beam generation model using transformer based autoencoder
+            - Developed frequency invariant beam generation model using attention based autoencoder
                   
             - Developed CNN-based feature extractor model through contrastive learning for datasets without labels
   
