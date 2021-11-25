@@ -96,6 +96,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “Peer-to-Peer Distributed Learning in Heterogeneous Environments via Collaborative Learning”, <i>IEEE Communications Letters</i>, <i>in preparation</i>
           
+          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “CyclicFL: Fast-convergent Federated Learning in Heterogeneous Environments”, <i>IEEE Communications Letters</i>, <i>in preparation</i>
+
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “RSFL: Robust and Safe Federated Learning in Heterogeneous Environments”, <i>IEEE Internet of Things Journal</i>, <i>in preparation</i>
           
           - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jinhyun Ahn and Joonhyuk Kang, “Accelerated Federated Learning via Greedy Aggregation”, <i>IEEE Communications Letters</i>, <i>under review</i>
