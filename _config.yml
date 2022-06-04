@@ -93,27 +93,27 @@ content:
     content:
       - layout: top-left
         caption: <b>Journal</b>  
-        description: | # this will include new lines to allow paragraphs
-          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “Peer-to-Peer Distributed Learning in Heterogeneous Environments via Collaborative Learning”, <i>IEEE Communications Letters</i>, <i>in preparation</i>
-          
-          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “CyclicFL: Fast-convergent Federated Learning in Heterogeneous Environments”, <i>IEEE Communications Letters</i>, <i>in preparation</i>
+        description: | # this will include new lines to allow paragraphs                    
+          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “Fast-convergent Federated Learning via Cyclic Aggregation”, <i>IEEE Communications Letters</i>, <i>in preparation</i>
 
-          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “RSFL: Robust and Safe Federated Learning in Heterogeneous Environments”, <i>IEEE Internet of Things Journal</i>, <i>in preparation</i>
-          
-          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jinhyun Ahn and Joonhyuk Kang, “Accelerated Federated Learning via Greedy Aggregation”, <i>IEEE Communications Letters</i>, <i>under review</i>
+          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Jin-hyun Ahn and Joonhyuk Kang, “Accelerated Federated Learning via Greedy Aggregation”, <i>IEEE Communications Letters</i>, <i>under review</i>
       
       - layout: top-left
         caption: <b>Conference</b>
         description: | # this will include new lines to allow paragraphs
-          - <u><b>Youngjoon Lee</b></u>, Taesoo Kim, Jinhyun Ahn and Joonhyuk Kang, “FedMusic: Automatic Music Transcription System Powered by Federated Learning”, <i>IEEE ICASSP 2022</i>, under review
+          - <u><b>Youngjoon Lee</b></u>, Taesoo Kim, Jin-hyun Ahn and Joonhyuk Kang, “FedMusic: Automatic Music Transcription System Powered by Federated Learning”, <i>IEEE ICTC 2022</i>, under review
+
+          - <u><b>Youngjoon Lee</b></u>, Sangwoo Park and Joonhyuk Kang, “Byzantine-Resilient Federated Learning via Reverse Aggregation”, <i>Interspeech 2022</i>, under review
 
           - <u><b>Youngjoon Lee</b></u> and Joonhyuk Kang, “FedLN: Federated Learning with Local Normalization”, <i>Joint Conference on Communications and Information (JCCI)</i>, April, 2021
       - layout: top-left
         caption: <b>Patent</b>
         description: | # this will include new lines to allow paragraphs
+          - “Method and System for Byzantine-Resilient and Personalized Distributed Learning”, <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Joonhyuk Kang, Registration No. 10-2022-0065524, 2022
+
           - “Nerual Network Training Method and Appratus Using Federated Learning”, <u><b>Youngjoon Lee</b></u>, Sangwoo Park, Joonhyuk Kang, Registration No. 10-2021-0148110, 2021
 
-          - “Federated Learning Method and System”, <u><b>Youngjoon Lee</b></u>, Joonhyuk Kang, Registration No. 10-2021-0016897, 2021
+          - “Federated Learning Method and System”, <u><b>Youngjoon Lee</b></u>, Joonhyuk Kang, Registration No. 10-2390553-0000, 2022
 
 
 # Footer
