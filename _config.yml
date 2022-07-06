@@ -31,7 +31,7 @@ about_content: > # this means to ignore newlines until the next config item.
   I received B.S. degree  in electric and electronic engineering from Ulsan National Institute of Science and Technology (UNIST),  Ulsan, Republic of Korea, in 2019 and M.S. degree in electric and electronic engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejon, Republic of Korea, in 2021.
   I'm currently a technical research personnel for alternative military service at Korea Institute of Industrial Technology (KITECH), Republic of Korea.
   The ongoing research goal is to develop future-oriented core technology and processing technologies for industrial systems.
-  My  recent research interests  lie in the field of distributed machine learning and learning theory, with a specific focus on federated learning.
+  My  recent research interests lie in the field of distributed machine learning and learning theory, with a specific focus on federated learning.
   
 content:  
   - title: Education
@@ -59,34 +59,33 @@ content:
           I developed a bio-data analysis engine, which detects a unique pattern in the signal of the human body by integrating electrical engineering and bio-medical engineering. 
           To reach my goal, I studied further into bio system modeling and analysis technique based on multi-layer neural network.
 
-  - title: Project Experience # Title for the section
+  - title: Reference # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
-        title: Development of Communications and Computing Technology for Super-intelligent Services
-        caption: Oct. 2020 - Aug. 2021
-        quote: >
-          Sponsor: IITP (Institute of Information & Communications Technology Planning & Evaluation), Republic of Korea
+      - layout: top-left
+        title: KAIST Academic Scholarship
+        caption: Sep. 2019 - Aug. 2021
         description: | # this will include new lines to allow paragraphs
-          Subjects: This project is aimed to develop federated learning system based on edge computing.
+          Received a full tuition scholarship from the admission until graduation.
             
-            - Developed transmission strategy for uplink communication for federated learning system
-         
-            - Developed machine learning model compression and reconstruction strategy using neural networks
-           
-            - Developed federated learning system, which assures robustness of device and data heterogeneity
-
       - layout: top
-        title: Design of Frequency Invariant Beam Generator
-        caption: Nov. 2020 - Aug. 2021
-        quote: >
-          Sponsor: ADD (Agency for Defense Development), Republic of Korea
+        title: National Science and Engineering Scholarship
+        caption: Mar. 2017 - Aug. 2019
         description: | # this will include new lines to allow paragraphs
-          Subjects: This project is aimed to develop frequency invariant beam generator, which eliminates noise through neural network. (Project leader)
-                   
-            - Developed frequency invariant beam generation model using attention based auto-encoder
-                  
-            - Developed CNN-based feature extractor model through contrastive learning for datasets without labels
+          The following program selects students who have excellent talents in the science and technology field to help their growth as a national core talent group. 
+          I was selected by the program to receive full scholarship, textbooks and entire tuition fee until the graduation.
+      
+      - layout: top
+        title: UNIST Academic Scholarship
+        caption: Mar. 2015 - Aug. 2019
+        description: | # this will include new lines to allow paragraphs
+          Received a full tuition scholarship from the admission until graduation.
+      
+      - layout: top
+        title: 3rd place in the 34th National University Students Mathematics
+        caption: Dec. 2015
+        description: | # this will include new lines to allow paragraphs
+          Received a bronze medal at the National University Mathematics Competition organized by the Korean Mathematical Society and Korea Institute for Advanced Study.
   
   - title: Publication
     layout: list # Type of content section (list/text)
